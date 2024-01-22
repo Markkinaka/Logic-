@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7425fb47-fa36-4714-8378-4adea4e5c5bb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ahwG72Abg9UZesLFZADLFCURVh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.division.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/PycharmProjects/Logic/resource/vendor&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resource/vendor" />
+      <recent name="$PROJECT_DIR$/assests" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="division.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Logic/division.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.division.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7425fb47-fa36-4714-8378-4adea4e5c5bb" name="Changes" comment="" />
+      <created>1704784021373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704784021373</updated>
+      <workItem from="1704784025925" duration="226000" />
+      <workItem from="1704785569326" duration="190000" />
+      <workItem from="1704785768553" duration="11000" />
+      <workItem from="1704862765481" duration="708000" />
+      <workItem from="1704863847087" duration="9459000" />
+      <workItem from="1704948629036" duration="8860000" />
+      <workItem from="1704980268393" duration="61000" />
+      <workItem from="1705035264629" duration="1465000" />
+      <workItem from="1705037560737" duration="419000" />
+      <workItem from="1705038030723" duration="67000" />
+      <workItem from="1705038215905" duration="651000" />
+      <workItem from="1705039391945" duration="15000" />
+      <workItem from="1705039712208" duration="10000" />
+      <workItem from="1705039799481" duration="2415000" />
+      <workItem from="1705044579117" duration="1338000" />
+      <workItem from="1705046291967" duration="685000" />
+      <workItem from="1705295023280" duration="834000" />
+      <workItem from="1705295864445" duration="5960000" />
+      <workItem from="1705301895621" duration="3469000" />
+      <workItem from="1705305891103" duration="1930000" />
+      <workItem from="1705316281455" duration="2000" />
+      <workItem from="1705381534334" duration="9943000" />
+      <workItem from="1705392805978" duration="631000" />
+      <workItem from="1705397608378" duration="1405000" />
+      <workItem from="1705466711144" duration="10616000" />
+      <workItem from="1705478538804" duration="2981000" />
+      <workItem from="1705553892438" duration="4328000" />
+      <workItem from="1705641819878" duration="674000" />
+      <workItem from="1705644989775" duration="1408000" />
+      <workItem from="1705647281360" duration="607000" />
+      <workItem from="1705648242766" duration="714000" />
+      <workItem from="1705903249907" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

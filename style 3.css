@@ -1,0 +1,32 @@
+form{
+    background-color: darkturquoise;
+    width: 50%;
+    height: 500px;
+    margin: auto;
+    font-weight: bold;
+    padding: 40px;
+
+}
+button{
+    margin: auto;
+    margin-left: 100px;
+
+}
+legend{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+input[type=text],[type=date]{
+    width: 50%;
+    height: 30px;
+    padding-left: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+label{
+    width: 150px;
+    display: inline-block;
+}
+
